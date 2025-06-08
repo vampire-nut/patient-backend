@@ -11,6 +11,7 @@ yarn-error.log*
 .pnp
 .pnp.js
 .parcel-cache
+package-lock.json
 
 # Logs
 *.log
